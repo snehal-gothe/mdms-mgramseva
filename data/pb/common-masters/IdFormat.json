@@ -1,0 +1,72 @@
+{
+  "tenantId": "pb",
+  "moduleName": "common-masters",
+  "IdFormat": [
+    {
+      "format": "TEST_seq/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON_TEST_AUTOCRE]",
+      "idname": "seq.autocreate.test"
+    },
+    {
+      "format": "PB-PT-[cy:yyyy-MM-dd]-[SEQ_EG_PT_PTID]",
+      "idname": "pt.propertyid"
+    },
+    {
+      "format": "PB-AC-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ACK]",
+      "idname": "pt.acknowledgementnumber"
+    },
+    {
+      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "watercharges.metered.receipt.id"
+    },
+    {
+      "format": "PT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "pt.receipt.id"
+    },
+     
+    {
+      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "watercharges.nonmetered.receipt.id"
+    },
+    
+    {
+      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "ch.plastic_challan.receipt.id"
+    },
+    {
+      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "ch.rehri_challan.receipt.id"
+    },
+    {
+      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "ch.challan_for_misuse_of_water.receipt.id"
+    },
+    {
+      "format": "WS/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "waterservice.connection.id"
+    },
+    {
+      "format": "PB_PG_[cy:yyyy_MM_dd]_[SEQ_EG_PG_TXN]_[d{2}]",
+      "idname": "pg.txnid"
+    },
+    {
+      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_COLL_RCPT_NUM]",
+      "idname": "receipt.id"
+    },
+    {
+      "format": "WS/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "ws.receipt.id"
+    },
+     
+    {
+      "format": "WS_AP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "waterservice.application.id"
+    },
+ 
+   {
+         "format": "WS/OTP/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+         "idname": "ws.one_time_fee.receipt.id"
+    }
+     
+  ]
+}
+
