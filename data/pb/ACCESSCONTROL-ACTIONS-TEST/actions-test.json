@@ -114,6 +114,18 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": "Administration.UpdateUserWithoutValidation"
+    },
+    {
+      "id": 2001,
+      "name": "BusinessService Search",
+      "url": "/user/profile/_update",
+      "parentModule": "",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     },{
       "id": 21,
       "name": "updateUsernovalidate",
