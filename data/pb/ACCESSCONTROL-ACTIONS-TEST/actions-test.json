@@ -829,6 +829,78 @@
       "serviceCode": "egov-workflow-v2",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2002,
+      "name": "Expense Create",
+      "url": "/echallan-services/eChallan/v1/_create",
+      "parentModule": "",
+      "displayName": "EChallan Create",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "echallan-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2003,
+      "name": "Expense Search",
+      "url": "/echallan-services/eChallan/v1/_search",
+      "parentModule": "",
+      "displayName": "EChallan Create",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "echallan-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2004,
+      "name": "Expense Update",
+      "url": "/echallan-services/eChallan/v1/_update",
+      "parentModule": "",
+      "displayName": "EChallan Create",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "echallan-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2005,
+      "name": "Vendor Create",
+      "url": "/vedor/v1/_create",
+      "parentModule": "",
+      "displayName": "Vendor Create",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "vendor",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2006,
+      "name": "Vendor Search",
+      "url": "/vendor/v1/_search",
+      "parentModule": "",
+      "displayName": "Vendor Create",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "vendor",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2007,
+      "name": "Update Password",
+      "url": "/user/password/update",
+      "parentModule": "",
+      "displayName": "Password Update",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-user",
+      "code": "null",
+      "path": ""
     }
   ]
 }
