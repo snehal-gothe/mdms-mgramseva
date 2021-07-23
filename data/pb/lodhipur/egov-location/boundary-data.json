@@ -15,7 +15,19 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "WARD1"
+        "code": "pb.lodhipur",
+        "children":[
+          {
+            "id": 1,
+            "boundaryNum": 1,
+            "name": "Lodhipur",
+            "localname": "Lodhipur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "WARD1"
+          }
+        ]
       }
     },
     {
@@ -31,7 +43,19 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "WARD1"
+        "code": "pb.lodhipur",
+        "children":[
+          {
+            "id": 1,
+            "boundaryNum": 1,
+            "name": "Lodhipur",
+            "localname": "Lodhipur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "WARD1"
+          }
+        ]
       }
     }
   ]
