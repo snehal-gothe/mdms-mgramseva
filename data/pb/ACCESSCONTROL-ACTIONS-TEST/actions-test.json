@@ -869,7 +869,7 @@
     {
       "id": 2005,
       "name": "Vendor Create",
-      "url": "/vedor/v1/_create",
+      "url": "/vendor/v1/_create",
       "parentModule": "",
       "displayName": "Vendor Create",
       "orderNumber": 0,
