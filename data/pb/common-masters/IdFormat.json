@@ -65,6 +65,10 @@
    {
          "format": "WS/OTP/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
          "idname": "ws.one_time_fee.receipt.id"
+    },
+    {
+      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_COLL_RCPT_NUM]",
+      "idname": "expense.advance.receipt.id"
     }
      
   ]
