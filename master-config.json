@@ -255,5 +255,164 @@
         "$.tenantId"
       ]
     }
+  },
+  "PropertyTax": {
+    "MutationReason": {
+      "masterName": "MutationReason",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "ConstructionType": {
+      "masterName": "ConstructionType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "ConstructionSubType": {
+      "masterName": "ConstructionSubType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "FireCess": {
+      "masterName": "FireCess",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "Floor": {
+      "masterName": "Floor",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "Interest": {
+      "masterName": "Interest",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.fromFY"
+      ]
+    },
+    "PropertyType": {
+      "masterName": "PropertyType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "PropertySubType": {
+      "masterName": "PropertySubType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "OwnerShipCategory": {
+      "masterName": "OwnerShipCategory",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "OwnerTypeDocument": {
+      "masterName": "OwnerTypeDocument",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "SubOwnerShipCategory": {
+      "masterName": "SubOwnerShipCategory",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "OccupancyType": {
+      "masterName": "OccupancyType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "UsageCategory": {
+      "masterName": "UsageCategory",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "UsageCategoryMajor": {
+      "masterName": "UsageCategoryMajor",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "UsageCategoryMinor": {
+      "masterName": "UsageCategoryMinor",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "UsageCategorySubMinor": {
+      "masterName": "UsageCategorySubMinor",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "UsageCategoryDetail": {
+      "masterName": "UsageCategoryDetail",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "OwnerType": {
+      "masterName": "OwnerType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "Rebate": {
+      "masterName": "Rebate",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.fromFY"
+      ]
+    },
+    "Penalty": {
+      "masterName": "Penalty",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.fromFY"
+      ]
+    },
+    "MutationRebate": {
+      "masterName": "MutationRebate",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.fromFY"
+      ]
+    },
+    "MutationPenalty": {
+      "masterName": "MutationPenalty",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.fromFY"
+      ]
+    },
+    "CancerCess": {
+      "masterName": "CancerCess",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    }
   }
 }
