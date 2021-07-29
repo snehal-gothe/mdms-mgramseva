@@ -893,7 +893,7 @@
     {
       "id": 2007,
       "name": "Update Password",
-      "url": "/user/password/update",
+      "url": "/user/password/_update",
       "parentModule": "",
       "displayName": "Password Update",
       "orderNumber": 0,
