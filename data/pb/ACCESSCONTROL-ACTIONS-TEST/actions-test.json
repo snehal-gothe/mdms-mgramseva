@@ -896,9 +896,9 @@
       "url": "/user/password/_update",
       "parentModule": "",
       "displayName": "Password Update",
-      "orderNumber": 0,
+      "orderNumber": 4,
       "enabled": false,
-      "serviceCode": "egov-user",
+      "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
     }
