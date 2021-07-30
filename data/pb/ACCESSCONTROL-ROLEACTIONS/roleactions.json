@@ -987,6 +987,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "PROFILE_UPDATE",
+      "actionid": 2001,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "GP_ADMIN",
       "actionid": 69,
       "actioncode": "",
@@ -2116,6 +2122,12 @@
     },
     {
       "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 2007,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PROFILE_UPDATE",
       "actionid": 2007,
       "actioncode": "",
       "tenantId": "pb"
