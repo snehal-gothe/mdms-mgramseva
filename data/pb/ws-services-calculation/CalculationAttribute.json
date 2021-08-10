@@ -11,7 +11,7 @@
     {
       "name": "Non Metered",
       "code": "NONMETERED",
-      "attribute": "Pipe Size",
+      "attribute": "No. of taps",
       "active": true
     }
   ]
