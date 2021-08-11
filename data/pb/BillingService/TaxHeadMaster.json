@@ -21,6 +21,116 @@
       "isActualDemand": false,
       "order": "1",
       "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS",
+      "name": "Water Charges",
+      "code": "WS_CHARGE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false,
+      "IsBillamend": true
+    },
+    {
+      "category": "TAX",
+      "service": "WS",
+      "name": "Rebate",
+      "code": "WS_TIME_REBATE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false,
+      "IsBillamend": false
+    },
+    {
+      "category": "TAX",
+      "service": "WS",
+      "name": "Interest",
+      "code": "WS_TIME_INTEREST",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false,
+      "IsBillamend": true
+    },
+    {
+      "category": "TAX",
+      "service": "WS",
+      "name": "Water Cess",
+      "code": "WS_WATER_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false,
+      "IsBillamend": true
+    },
+    {
+      "category": "PENALTY",
+      "service": "WS",
+      "name": "Penalty",
+      "code": "WS_TIME_PENALTY",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": false,
+      "IsBillamend": true
+    },
+    {
+      "category": "TAX",
+      "service": "WS",
+      "name": "Round Off",
+      "code": "WS_Round_Off",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "4",
+      "isRequired": false,
+      "IsBillamend": false
+    },
+    {
+      "category": "TAX",
+      "service": "WS",
+      "name": "Water adhoc rebate",
+      "code": "WS_TIME_ADHOC_REBATE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "5",
+      "isRequired": false,
+      "IsBillamend": false
+    },
+    {
+      "category": "TAX",
+      "service": "WS",
+      "name": "Water adhoc penalty",
+      "code": "WS_TIME_ADHOC_PENALTY",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "6",
+      "isRequired": false,
+      "IsBillamend": false
+    },
+    {
+      "category": "ADVANCE_COLLECTION",
+      "service": "WS",
+      "name": "Ws advance carry forward",
+      "code": "WS_ADVANCE_CARRYFORWARD",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false,
+      "IsBillamend": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS",
+      "name": "Water Amendment Charges",
+      "code": "WS_AMENDMENT_CHARGES",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "3",
+      "isRequired": false,
+      "IsBillamend": true
     }
   ]
 }
