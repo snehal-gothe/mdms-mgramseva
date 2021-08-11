@@ -901,6 +901,66 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2008,
+      "name": "Bulk Demand Generation",
+      "url": "/ws-calculator/waterCalculator/_bulkDemand",
+      "parentModule": "",
+      "displayName":"Bulk Demand Generation",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2009,
+      "name": "Demand Calculation",
+      "url": "/ws-calculator/waterCalculator/_calculate",
+      "parentModule": "",
+      "displayName": "Demand Calculation",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2010,
+      "name": "Meter Demand Calculation",
+      "url": "/ws-calculator/meterConnection/_create",
+      "parentModule": "",
+      "displayName": "Meter Demand Calculation",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2011,
+      "name": "Meter Demand search",
+      "url": "/ws-calculator/meterConnection/_search",
+      "parentModule": "",
+      "displayName": "Meter Demand search",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2012,
+      "name": "Demand Estimate",
+      "url": "/ws-calculator/waterCalculator/_estimate",
+      "parentModule": "",
+      "displayName": "Demand Estimate",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }

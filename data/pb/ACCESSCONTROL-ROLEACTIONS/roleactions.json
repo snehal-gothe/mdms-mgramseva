@@ -2131,6 +2131,48 @@
       "actionid": 2007,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2008,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2009,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2010,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2011,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2011,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2011,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2012,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
