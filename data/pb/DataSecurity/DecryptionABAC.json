@@ -217,6 +217,23 @@
               "accessType": "PLAIN"
             }
           ]
+        },
+        {
+          "roleCode": "SYSTEM",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobileNumber"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
         }
       ]
     },
