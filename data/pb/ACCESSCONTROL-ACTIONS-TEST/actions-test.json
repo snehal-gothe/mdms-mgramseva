@@ -961,6 +961,42 @@
       "serviceCode": "ws-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2013,
+      "name": "Demand Search",
+      "url": "/billing-service/demand/_search",
+      "parentModule": "",
+      "displayName": "Demand Search",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "billing-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2014,
+      "name": "Fech Bill",
+      "url": "/billing-service/bill/v2/_fetchbill",
+      "parentModule": "",
+      "displayName": "Fech Bill",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "billing-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2015,
+      "name": "create payment",
+      "url": "/collection-services/payments/_create",
+      "parentModule": "",
+      "displayName": "create payment",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "collection-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }
