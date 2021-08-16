@@ -997,6 +997,78 @@
       "serviceCode": "collection-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2016,
+      "name": " payment search",
+      "url": "/collection-services/payments/_create",
+      "parentModule": "",
+      "displayName": "create payment",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "collection-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2017,
+      "name": "Receipt Search",
+      "url": "collection-services/receipts/_search",
+      "parentModule": "",
+      "displayName": "create payment",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "collection-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2018,
+      "name": "pdf create",
+      "url": "/pdf/v1/_create",
+      "parentModule": "",
+      "displayName": "create pdf",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "pdf-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2018,
+      "name": "pdf create",
+      "url": "/pdf/v1/_create",
+      "parentModule": "",
+      "displayName": "create pdf",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "pdf-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2019,
+      "name": "pdf create no save",
+      "url": "/pdf/v1/_createnosave",
+      "parentModule": "",
+      "displayName": "create pdf no save",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "pdf-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2020,
+      "name": "pdf search",
+      "url": "/pdf/v1/_search",
+      "parentModule": "",
+      "displayName": "create pdf search",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "pdf-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }
