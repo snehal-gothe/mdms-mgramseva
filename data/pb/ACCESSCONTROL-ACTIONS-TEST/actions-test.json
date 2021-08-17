@@ -1056,7 +1056,7 @@
     {
       "id": 2016,
       "name": " payment search",
-      "url": "/collection-services/payments/_create",
+      "url": "/collection-services/payments/_search",
       "parentModule": "",
       "displayName": "create payment",
       "orderNumber": 2,
@@ -1122,6 +1122,18 @@
       "orderNumber": 2,
       "enabled": false,
       "serviceCode": "pdf-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2021,
+      "name": " payment search",
+      "url": "/collection-services/payments/WS/_search",
+      "parentModule": "",
+      "displayName": "create payment",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "collection-services",
       "code": "null",
       "path": ""
     }
