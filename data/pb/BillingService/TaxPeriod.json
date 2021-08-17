@@ -9,6 +9,13 @@
       "service": "EXPENSE.ADVANCE",
       "code": "EXPENSEADVANCE2122",
       "financialYear": "2021-22"
+    },{
+      "fromDate": 1617215400000,
+      "toDate": 1648751399000,
+      "periodCycle": "TWOYEARS",
+      "service": "WS",
+      "code": "WC2021",
+      "financialYear": "2021-22"
     }
   ]
 }
