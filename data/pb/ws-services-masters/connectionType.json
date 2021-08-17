@@ -15,7 +15,7 @@
     {
       "name": "Bulk-supply",
       "code": "Bulk-supply",
-      "active": true
+      "active": false
     }
   ]
 }
