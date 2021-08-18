@@ -537,5 +537,14 @@
       "isStateLevel": true,
       "uniqueKeys": []
     }
+  },
+  "Expense": {
+    "ExpenseType": {
+      "masterName": "ExpenseType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    }
   }
 }
