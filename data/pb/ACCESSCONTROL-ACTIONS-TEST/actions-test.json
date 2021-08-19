@@ -1056,7 +1056,7 @@
     {
       "id": 2016,
       "name": " payment search",
-      "url": "/collection-services/payments/_create",
+      "url": "/collection-services/payments/_search",
       "parentModule": "",
       "displayName": "create payment",
       "orderNumber": 2,
@@ -1112,6 +1112,30 @@
       "serviceCode": "pdf-services",
       "code": "null",
       "path": ""
-    }
+    },
+	{
+      "id": 2021,
+      "name": " payment search",
+      "url": "/collection-services/payments/WS/_search",
+      "parentModule": "",
+      "displayName": "create payment",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "collection-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2022,
+      "name": "DSS Dashboard Charts",
+      "url": "/dashboard-analytics/dashboard/getChartV2",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    }  
   ]
 }
