@@ -2509,7 +2509,8 @@
       "actionid": 1828,
       "actioncode": "",
       "tenantId": "pb"
-    },{
+    },
+    {
       "rolecode": "GP_ADMIN",
       "actionid": 2021,
       "actioncode": "",
@@ -2524,6 +2525,18 @@
     {
       "rolecode": "BULK_DEMAND_PROCESSING",
       "actionid": 2021,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2022,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 2022,
       "actioncode": "",
       "tenantId": "pb"
     }
