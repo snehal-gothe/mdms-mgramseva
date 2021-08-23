@@ -3,7 +3,7 @@
 	"moduleName": "ws-services-masters",
 	"CheckList": [{
 			"code": "HAPPY_WATER_SUPPLY",
-			"name":"Are you happy with water supply?"
+			"name":"Are you happy with water supply?",
 			"active": true,
 			"required": true,
 			"type": "SINGLE_SELECT",
@@ -17,7 +17,7 @@
 		},
 		{
 			"code": "WATER_SUPPLY_REGULAR",
-			"name": "Is the water supply regular?"
+			"name": "Is the water supply regular?",
 			"active": true,
 			"type": "SINGLE_SELECT",
 			"required": true,
@@ -31,7 +31,7 @@
 		},
 		{
 			"code": "WATER_QUALITY_GOOD",
-			"name":"Is the water quality good?"
+			"name":"Is the water quality good?",
 			"active": true,
 			"type": "SINGLE_SELECT",
 			"required": true,
