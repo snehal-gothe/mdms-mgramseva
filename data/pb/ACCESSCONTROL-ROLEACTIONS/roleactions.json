@@ -2080,6 +2080,11 @@
     },
     {
       "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 2005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },{
+      "rolecode": "EXPENSE_PROCESSING",
       "actionid": 2006,
       "actioncode": "",
       "tenantId": "pb"
