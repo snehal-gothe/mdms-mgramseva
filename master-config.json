@@ -551,5 +551,14 @@
         "$.code"
       ]
     }
+  },
+  "Workflow": {
+    "BusinessService": {
+      "masterName": "BusinessService",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.businessService"
+      ]
+    }
   }
 }
