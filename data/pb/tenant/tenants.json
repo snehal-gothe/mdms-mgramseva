@@ -4,7 +4,7 @@
   "tenants": [
     {
       "code": "pb",
-      "name": "Lodhipur",
+      "name": "Punjab",
       "description": "Lodhipur",
       "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.jalandhar/logo.png",
       "imageId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.jalandhar/logo.png",
@@ -17,7 +17,7 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Lodhipur",
+        "name": "Punjab State",
         "localName": null,
         "districtCode": null,
         "districtName": null,
@@ -51,7 +51,7 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "",
+        "name": "Lodhipur",
         "localName": null,
         "districtCode": null,
         "districtName": null,
@@ -120,7 +120,7 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "kalarbass",
+        "name": "Kalar Bass",
         "localName": null,
         "districtCode": null,
         "districtName": null,
