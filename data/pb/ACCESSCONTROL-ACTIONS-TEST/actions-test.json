@@ -1136,6 +1136,30 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": ""
+     },
+    {
+      "id": 2023,
+      "name": " feedback create",
+      "url": "/ws-services/wc/_submitfeedback",
+      "parentModule": "",
+      "displayName": "create feedback",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
+    },
+	{
+      "id": 2024,
+      "name": " feedback search",
+      "url": "/ws-services/wc/_getfeedback",
+      "parentModule": "",
+      "displayName": "get feedback",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }
