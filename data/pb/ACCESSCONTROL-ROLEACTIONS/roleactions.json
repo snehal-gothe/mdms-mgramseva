@@ -2083,7 +2083,8 @@
       "actionid": 2005,
       "actioncode": "",
       "tenantId": "pb"
-    },{
+    },
+    {
       "rolecode": "EXPENSE_PROCESSING",
       "actionid": 2006,
       "actioncode": "",
@@ -2542,6 +2543,18 @@
     {
       "rolecode": "DASHBOARD_VIEWER",
       "actionid": 2022,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2023,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	  {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2024,
       "actioncode": "",
       "tenantId": "pb"
     }
