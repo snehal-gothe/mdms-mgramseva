@@ -1,0 +1,107 @@
+{
+    "tenantId": "pb",
+    "moduleName": "tenant",
+    "projectmodule": [
+        {
+            "name": "Zone-1",
+            "code": "Z1",
+            "type": "ZONE",
+            "child": [
+                {
+                    "name": "Circle-1",
+                    "code": "C1",
+                    "type": "CIRCLE",
+                    "child": [
+                        {
+                            "name": "Division-1",
+                            "code": "D1",
+                            "type": "DIVISION",
+                            "child": [
+                                {
+                                    "name": "SubDivision-1",
+                                    "code": "SD1",
+                                    "type": "SUBDIVISION",
+                                    "child": [
+                                        {
+                                            "name": "Section-1",
+                                            "code": "S1",
+                                            "type": "SECTION",
+                                            "child": [
+                                                {
+                                                    "name": "Project-1",
+                                                    "code": "P1",
+                                                    "type": "PROJECT",
+                                                    "child": [
+                                                        {
+                                                            "name": "Village-1",
+                                                            "code": "pb.lodhipur",
+                                                            "type": "VILLAGE"
+                                                        }, {
+                                                            "name": "Village-2",
+                                                            "code": "pb.suskal",
+                                                            "type": "VILLAGE"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "name": "Zone-2",
+            "code": "Z1",
+            "type": "ZONE",
+            "child": [
+                {
+                    "name": "Circle-2",
+                    "code": "C2",
+                    "type": "CIRCLE",
+                    "child": [
+                        {
+                            "name": "Division-2",
+                            "code": "D2",
+                            "type": "DIVISION",
+                            "child": [
+                                {
+                                    "name": "SubDivision-2",
+                                    "code": "SD2",
+                                    "type": "SUBDIVISION",
+                                    "child": [
+                                        {
+                                            "name": "Section-2",
+                                            "code": "S2",
+                                            "type": "SECTION",
+                                            "child": [
+                                                {
+                                                    "name": "Project-2",
+                                                    "code": "P2",
+                                                    "type": "PROJECT",
+                                                    "child": [
+                                                        {
+                                                            "name": "Village-p3",
+                                                            "code": "pb.v3",
+                                                            "type": "VILLAGE"
+                                                        }, {
+                                                            "name": "Village-p4",
+                                                            "code": "pb.v4",
+                                                            "type": "VILLAGE"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
