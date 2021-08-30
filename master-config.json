@@ -144,6 +144,15 @@
       "uniqueKeys": [
         "$.code"
       ]
+     }
+    },
+   "egov-hrms": {
+    "EmployeeStatus": {
+      "masterName": "EmployeeStatus",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
     },
     "EmployeeType": {
       "masterName": "EmployeeType",
