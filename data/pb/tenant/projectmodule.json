@@ -6,32 +6,32 @@
             "name": "Zone-1",
             "code": "Z1",
             "type": "ZONE",
-            "child": [
+            "circle": [
                 {
                     "name": "Circle-1",
                     "code": "C1",
                     "type": "CIRCLE",
-                    "child": [
+                    "division": [
                         {
                             "name": "Division-1",
                             "code": "D1",
                             "type": "DIVISION",
-                            "child": [
+                            "subdivision": [
                                 {
                                     "name": "SubDivision-1",
                                     "code": "SD1",
                                     "type": "SUBDIVISION",
-                                    "child": [
+                                    "section": [
                                         {
                                             "name": "Section-1",
                                             "code": "S1",
                                             "type": "SECTION",
-                                            "child": [
+                                            "project": [
                                                 {
                                                     "name": "Project-1",
                                                     "code": "P1",
                                                     "type": "PROJECT",
-                                                    "child": [
+                                                    "village": [
                                                         {
                                                             "name": "Village-1",
                                                             "code": "pb.lodhipur",
@@ -50,45 +50,88 @@
                             ]
                         }
                     ]
-                }
-            ]
-        }, {
-            "name": "Zone-2",
-            "code": "Z1",
-            "type": "ZONE",
-            "child": [
-                {
+                },{
                     "name": "Circle-2",
                     "code": "C2",
                     "type": "CIRCLE",
-                    "child": [
+                    "division": [
                         {
                             "name": "Division-2",
                             "code": "D2",
                             "type": "DIVISION",
-                            "child": [
+                            "subdivision": [
+                                {
+                                    "name": "SubDivision-21",
+                                    "code": "SD21",
+                                    "type": "SUBDIVISION",
+                                    "section": [
+                                        {
+                                            "name": "Section-21",
+                                            "code": "S21",
+                                            "type": "SECTION",
+                                            "project": [
+                                                {
+                                                    "name": "Project-1",
+                                                    "code": "P1",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                        {
+                                                            "name": "Village-1",
+                                                            "code": "pb.lodhipur1",
+                                                            "type": "VILLAGE"
+                                                        }, {
+                                                            "name": "Village-2",
+                                                            "code": "pb.suskal1",
+                                                            "type": "VILLAGE"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "name": "Zone-2",
+            "code": "Z2",
+            "type": "ZONE",
+            "circle": [
+                {
+                    "name": "Circle-2",
+                    "code": "C22",
+                    "type": "CIRCLE",
+                    "division": [
+                        {
+                            "name": "Division-2",
+                            "code": "D23",
+                            "type": "DIVISION",
+                            "subdivision": [
                                 {
                                     "name": "SubDivision-2",
-                                    "code": "SD2",
+                                    "code": "SD23",
                                     "type": "SUBDIVISION",
-                                    "child": [
+                                    "section": [
                                         {
                                             "name": "Section-2",
-                                            "code": "S2",
+                                            "code": "S24",
                                             "type": "SECTION",
-                                            "child": [
+                                            "project": [
                                                 {
                                                     "name": "Project-2",
-                                                    "code": "P2",
+                                                    "code": "P24",
                                                     "type": "PROJECT",
-                                                    "child": [
+                                                    "village": [
                                                         {
                                                             "name": "Village-p3",
-                                                            "code": "pb.v3",
+                                                            "code": "pb.v23",
                                                             "type": "VILLAGE"
                                                         }, {
                                                             "name": "Village-p4",
-                                                            "code": "pb.v4",
+                                                            "code": "pb.v24",
                                                             "type": "VILLAGE"
                                                         }
                                                     ]
