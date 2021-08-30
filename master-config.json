@@ -136,12 +136,11 @@
       "uniqueKeys": [
         "$.code"
       ]
-    }
-  },
-  "egov-hrms": {
-    "EmployeeStatus": {
-      "masterName": "EmployeeStatus",
+     },
+    "projectmodule":{
+      "masterName": "projectmodule",
       "isStateLevel": true,
+      "moduleDefinition": null,
       "uniqueKeys": [
         "$.code"
       ]
