@@ -1160,6 +1160,17 @@
       "serviceCode": "ws-services",
       "code": "null",
       "path": ""
-    }
+      },{
+      "id": 2025,
+      "name": " Employee Bulk On Board ",
+      "url": "/ws-services/wc/_bulkonboard",
+      "parentModule": "",
+      "displayName": "Employee Bulk On Board ",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
+      }
   ]
 }
