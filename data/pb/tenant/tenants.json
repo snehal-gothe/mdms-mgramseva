@@ -62,6 +62,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "400",
+        "projectId":"LODHIPUR-Project",
         "ddrName": "LODHIPUR-MC"
       },
       "address": "Lodhipur",
@@ -96,6 +97,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "450",
+        "projectId":"Sukhsal-Project",
         "ddrName": "Sukhsal-MC"
       },
       "address": "Sukhsal",
@@ -131,6 +133,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "59",
+        "projectId":"kalarbass-Project",
         "ddrName": "kalarbass-MC"
       },
       "address": "Kalar Bass,Punjab",
@@ -166,6 +169,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "45",
+        "projectId":"Batarla-Project",
         "ddrName": "Batarla-DDR"
       },
       "address": "Batarla",
@@ -201,6 +205,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "220",
+        "projectId":"Lalpur-Project",
         "ddrName": "Lalpur-MC"
       },
       "address": "Lalpur, Punjab 160062",
@@ -235,6 +240,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "240",
+        "projectId":"Dabour-Project",
         "ddrName": "Dabour-DDR"
       },
       "address": "Not available",
@@ -271,6 +277,7 @@
         "code": "275",
         "regionCode": "6",
         "municipalityName": "Balewal",
+        "projectId":"Balewal-Project",
         "ddrName": "Balewal-DDR"
       },
       "address": "Not available",
