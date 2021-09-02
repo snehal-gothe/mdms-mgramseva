@@ -26,6 +26,42 @@
       "isActive": true,
       "type": "Adhoc"
     },
+     {
+      "businessService": "EXPENSE.SALARY",
+      "code": "EXPENSE.SALARY",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": true,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "EXPENSE.OM",
+      "code": "EXPENSE.OM",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": true,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "EXPENSE.MISC",
+      "code": "EXPENSE.MISC",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": true,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
     {
       "businessService": "ws-services-calculation",
       "code": "WS",
