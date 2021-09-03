@@ -2,13 +2,7 @@
   "tenantId": "pb",
   "moduleName": "Expense",
   "ExpenseType": [
-    {
-      "name": "Advance",
-      "code": "ADVANCE",
-      "active": true,
-      "taxHeadCode":"EXPENSE.ADVANCE_TAX"
-    },
-    {
+      {
       "name": "Electricity Bill",
       "code": "ELECTRICITY_BILL",
       "active": true,
