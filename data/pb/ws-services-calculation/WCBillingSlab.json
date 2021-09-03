@@ -313,7 +313,7 @@
     },
     {
       "id": "16",
-      "buildingType": "NONRESIDENTIAL",
+      "buildingType": "MIXED",
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "minimumCharge": 550,
@@ -321,15 +321,15 @@
     },
     {
       "id": "17",
-      "buildingType": "Commercial",
+      "buildingType": "COMMERCIAL",
       "calculationAttribute": "Flat",
-      "connectionType": "Non Metered",
+      "connectionType": "Non Metered", 
       "minimumCharge": 550,
       "slabs": []
     },
     {
       "id": "18",
-      "buildingType": "Government",
+      "buildingType": "PUBLICSECTOR",
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "minimumCharge": 650,
