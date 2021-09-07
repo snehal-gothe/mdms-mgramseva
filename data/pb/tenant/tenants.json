@@ -386,7 +386,7 @@
         "code": "7317",
         "regionCode": "",
         "municipalityName": "DABOUR LOWER",
-        "ddrName": "DABOUR  LOWER",
+        "ddrName": "DABOUR LOWER",
 		"projectId":7317
       },
       "address": "Water Supply Scheme Dabour Lower ",
@@ -396,9 +396,9 @@
       "pdfContactDetails": ""
     },
 	{
-      "code": "pb.dabourupper ",
-      "name": "DABOUR LOWER",
-      "description": "DABOUR UPPER ",
+      "code": "pb.dabourupper",
+      "name": "DABOUR UPPER",
+      "description": "DABOUR UPPER",
       "logoId": "",
       "imageId": null,
       "domainUrl": "",
@@ -423,7 +423,7 @@
         "code": "15701",
         "regionCode": "",
         "municipalityName": "DABOUR UPPER",
-        "ddrName": "DABOUR  UPPER",
+        "ddrName": "DABOUR UPPER",
 		"projectId":15701
       },
       "address": "Water Supply Scheme Dabour Upper ",
