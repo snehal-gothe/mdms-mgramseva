@@ -287,8 +287,8 @@
       "pdfContactDetails": "PB_BALEWAL_CONTACT_DETAILS"
     },
 	{
-      "code": "pb.baruwal ",
-      "name": "BARUWAL ",
+      "code": "pb.baruwal",
+      "name": "BARUWAL",
       "description": "BARUWAL",
       "logoId": "",
       "imageId": "",
@@ -397,8 +397,8 @@
     },
 	{
       "code": "pb.dabourupper ",
-      "name": "DABOUR LOWER",
-      "description": "DABOUR UPPER ",
+      "name": "DABOUR UPPER",
+      "description": "DABOUR UPPER",
       "logoId": "",
       "imageId": null,
       "domainUrl": "",
@@ -423,7 +423,7 @@
         "code": "15701",
         "regionCode": "",
         "municipalityName": "DABOUR UPPER",
-        "ddrName": "DABOUR  UPPER",
+        "ddrName": "DABOUR UPPER",
 	"projectId":"DABOUR"
       },
       "address": "Water Supply Scheme Dabour Upper ",
