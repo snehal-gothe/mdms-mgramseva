@@ -11,16 +11,6 @@
       "name": "Commercial",
       "code": "COMMERCIAL",
       "active": true
-    },
-    {
-      "name": "Mixed",
-      "code": "MIXED",
-      "active": false
-    },
-    {
-      "name": "Public sector",
-      "code": "PUBLICSECTOR",
-      "active": false
     }
   ]
 }
