@@ -68,8 +68,20 @@
     },
     {
       "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_COLL_RCPT_NUM]",
-      "idname": "expense.advance.receipt.id"
-    }
+      "idname": "expense.electricity_bill.receipt.id"
+    },
+    {
+      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_COLL_RCPT_NUM]",
+      "idname": "expense.salary.receipt.id"
+    },
+    {
+      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_COLL_RCPT_NUM]",
+      "idname": "expense.om.receipt.id"
+    },
+    {
+      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_COLL_RCPT_NUM]",
+      "idname": "expense.misc.receipt.id"
+    } 
      
   ]
 }
