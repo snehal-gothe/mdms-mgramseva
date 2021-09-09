@@ -9,7 +9,7 @@
       "active": true
     },
     {
-      "name": "Non Metered",
+      "name": "Non_Metered",
       "code": "NONMETERED",
       "attribute": "No. of taps",
       "active": true
