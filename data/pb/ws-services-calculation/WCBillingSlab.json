@@ -156,7 +156,7 @@
       "id": "5",
       "buildingType": "RESIDENTIAL",
       "calculationAttribute": "No. of taps",
-      "connectionType": "Non Metered",
+      "connectionType": "Non_Metered",
       
       "minimumCharge": 100,
       "slabs": [
@@ -171,7 +171,7 @@
       "id": "6",
       "buildingType": "RESIDENTIAL",
       "calculationAttribute": "Pipe Size",
-      "connectionType": "Non Metered",
+      "connectionType": "Non_Metered",
       
       "minimumCharge": 100,
       "slabs": [
@@ -186,7 +186,7 @@
       "id": "7",
       "buildingType": "NONRESIDENTIAL",
       "calculationAttribute": "Pipe Size",
-      "connectionType": "Non Metered",
+      "connectionType": "Non_Metered",
       
       "minimumCharge": 200,
       "slabs": [
@@ -201,7 +201,7 @@
       "id": "8",
       "buildingType": "NONRESIDENTIAL",
       "calculationAttribute": "No. of taps",
-      "connectionType": "Non Metered",
+      "connectionType": "Non_Metered",
       
       "minimumCharge": 200,
       "slabs": [
@@ -216,7 +216,7 @@
       "id": "9",
       "buildingType": "Commercial",
       "calculationAttribute": "Pipe Size",
-      "connectionType": "Non Metered",
+      "connectionType": "Non_Metered",
       
       "minimumCharge": 200,
       "slabs": [
@@ -231,7 +231,7 @@
       "id": "10",
       "buildingType": "Commercial",
       "calculationAttribute": "No. of taps",
-      "connectionType": "Non Metered",
+      "connectionType": "Non_Metered",
       "minimumCharge": 200,
       
       "slabs": [
@@ -247,7 +247,7 @@
       "id": "11",
       "buildingType": "Government",
       "calculationAttribute": "No. of taps",
-      "connectionType": "Non Metered",
+      "connectionType": "Non_Metered",
       
       "minimumCharge": 300,
       "slabs": [
@@ -262,7 +262,7 @@
       "id": "12",
       "buildingType": "Government",
       "calculationAttribute": "Pipe Size",
-      "connectionType": "Non Metered",
+      "connectionType": "Non_Metered",
       
       "minimumCharge": 300,
       "slabs": [
@@ -277,7 +277,7 @@
       "id": "13",
       "buildingType": "Partly Commercial",
       "calculationAttribute": "No. of taps",
-      "connectionType": "Non Metered",
+      "connectionType": "Non_Metered",
       
       "minimumCharge": 150,
       "slabs": [
@@ -292,7 +292,7 @@
       "id": "14",
       "buildingType": "Partly Commercial",
       "calculationAttribute": "Pipe Size",
-      "connectionType": "Non Metered",
+      "connectionType": "Non_Metered",
       
       "minimumCharge": 150,
       "slabs": [
@@ -307,7 +307,7 @@
       "id": "15",
       "buildingType": "RESIDENTIAL",
       "calculationAttribute": "Flat",
-      "connectionType": "Non Metered",
+      "connectionType": "Non_Metered",
       "minimumCharge": 250,
       "slabs": []
     },
@@ -315,7 +315,7 @@
       "id": "16",
       "buildingType": "NONRESIDENTIAL",
       "calculationAttribute": "Flat",
-      "connectionType": "Non Metered",
+      "connectionType": "Non_Metered",
       "minimumCharge": 550,
       "slabs": []
     },
@@ -323,7 +323,7 @@
       "id": "17",
       "buildingType": "Commercial",
       "calculationAttribute": "Flat",
-      "connectionType": "Non Metered",
+      "connectionType": "Non_Metered",
       "minimumCharge": 550,
       "slabs": []
     },
@@ -331,7 +331,7 @@
       "id": "18",
       "buildingType": "Government",
       "calculationAttribute": "Flat",
-      "connectionType": "Non Metered",
+      "connectionType": "Non_Metered",
       "minimumCharge": 650,
       "slabs": []
     },
@@ -339,7 +339,7 @@
       "id": "19",
       "buildingType": "Partly commercial",
       "calculationAttribute": "Flat",
-      "connectionType": "Non Metered",
+      "connectionType": "Non_Metered",
       "minimumCharge": 350,
       "slabs": []
     }

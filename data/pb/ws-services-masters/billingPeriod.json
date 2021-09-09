@@ -12,7 +12,7 @@
     },
     {
       "active": true,
-      "connectionType": "Non Metered",
+      "connectionType": "Non_Metered",
       "billingCycle": "monthly",
       "demandEndDateMillis": 2592000000,
       "demandExpiryDate": 1296000000,
