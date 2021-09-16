@@ -3,6 +3,11 @@
   "moduleName": "ACCESSCONTROL-ROLES",
   "roles": [
     {
+      "code": "ANONYMOUS",
+      "name": "anonymous",
+      "description": "anonymous user"
+    },
+    {
       "code": "CITIZEN",
       "name": "Citizen",
       "description": "Citizen who can raise complaint"
