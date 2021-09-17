@@ -431,6 +431,13 @@
         "$.code"
       ]
     },
+    "CheckList": {
+      "masterName": "CheckList",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
     "connectionType": {
       "masterName": "connectionType",
       "isStateLevel": true,
