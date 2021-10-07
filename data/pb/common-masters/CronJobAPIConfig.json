@@ -6,7 +6,7 @@
       "jobName": "daily",
       "active": "true",
       "method": "POST",
-      "url": "http://echallan-services.egov:8080/echallan-services/eChallan/v1/_schedulerpendingcollection",
+      "url": "http://echallan-services.mgramseva:8080/echallan-services/eChallan/v1/_schedulerpendingcollection",
       "payload": {
         "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
@@ -18,7 +18,7 @@
       "jobName": "daily",
       "active": "true",
       "method": "POST",
-      "url": "http://echallan-services.egov:8080/echallan-services/eChallan/v1/_schedulermonthsummary",
+      "url": "http://echallan-services.mgramseva:8080/echallan-services/eChallan/v1/_schedulermonthsummary",
       "payload": {
         "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
@@ -30,7 +30,7 @@
       "jobName": "daily",
       "active": "true",
       "method": "POST",
-      "url": "http://echallan-services.egov:8080/echallan-services/eChallan/v1/_schedulernewexpenditure",
+      "url": "http://echallan-services.mgramseva:8080/echallan-services/eChallan/v1/_schedulernewexpenditure",
       "payload": {
         "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
@@ -42,7 +42,7 @@
       "jobName": "daily",
       "active": "true",
       "method": "POST",
-      "url": "http://echallan-services.egov:8080/echallan-services/eChallan/v1/_schedulermarkexpensebill",
+      "url": "http://echallan-services.mgramseva:8080/echallan-services/eChallan/v1/_schedulermarkexpensebill",
       "payload": {
         "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
@@ -54,7 +54,7 @@
       "jobName": "daily",
       "active": "true",
       "method": "POST",
-      "url": "http://echallan-services.egov:8080/echallan-services/eChallan/v1/_schedulergeneratedemand",
+      "url": "http://echallan-services.mgramseva:8080/echallan-services/eChallan/v1/_schedulergeneratedemand",
       "payload": {
         "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
@@ -66,7 +66,7 @@
       "jobName": "daily",
       "active": "true",
       "method": "POST",
-      "url": "http://echallan-services.egov:8080/echallan-services/eChallan/v1/_schedulerTodaysCollection",
+      "url": "http://echallan-services.mgramseva:8080/echallan-services/eChallan/v1/_schedulerTodaysCollection",
       "payload": {
         "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
