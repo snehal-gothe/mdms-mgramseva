@@ -457,10 +457,24 @@
       "isStateLevel": true,
       "uniqueKeys": []
     },
-	"CheckList": {
+    "CheckList": {
       "masterName": "CheckList",
       "isStateLevel": true,
       "uniqueKeys": []
+    },
+    "Category": {
+      "masterName": "Category",
+      "isStateLevel": true,
+      "uniqueKeys": [
+      	"$.code"
+      ]
+    },
+    "SubCategory": {
+      "masterName": "SubCategory",
+      "isStateLevel": true,
+      "uniqueKeys": [
+	      "$.code"
+      ]
     }
   },
   "ws-services-calculation": {
