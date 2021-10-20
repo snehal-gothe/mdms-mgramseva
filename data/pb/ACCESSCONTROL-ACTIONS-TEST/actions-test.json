@@ -1171,6 +1171,29 @@
       "serviceCode": "ws-services",
       "code": "null",
       "path": ""
-      }
+      },
+     {
+      "id": 2026,
+      "name": "Expense Update",
+      "url": "/echallan-services/eChallan/v1/_expenseDashboard",
+      "parentModule": "",
+      "displayName": "get Expense Dashboard",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "echallan-services",
+      "code": "null",
+      "path": ""
+    },{
+      "id": 2027,
+      "name": " feedback search",
+      "url": "/ws-services/wc/_revenueDashboard",
+      "parentModule": "",
+      "displayName": "get Revenue Dashboard Data",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
+    }	  
   ]
 }
