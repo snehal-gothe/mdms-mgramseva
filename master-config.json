@@ -431,13 +431,6 @@
         "$.code"
       ]
     },
-    "CheckList": {
-      "masterName": "CheckList",
-      "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
-    },
     "connectionType": {
       "masterName": "connectionType",
       "isStateLevel": true,
@@ -463,6 +456,25 @@
       "masterName": "waterSourceWithSubSource",
       "isStateLevel": true,
       "uniqueKeys": []
+    },
+    "CheckList": {
+      "masterName": "CheckList",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "Category": {
+      "masterName": "Category",
+      "isStateLevel": true,
+      "uniqueKeys": [
+      	"$.code"
+      ]
+    },
+    "SubCategory": {
+      "masterName": "SubCategory",
+      "isStateLevel": true,
+      "uniqueKeys": [
+	      "$.code"
+      ]
     }
   },
   "ws-services-calculation": {
@@ -494,7 +506,7 @@
     },
     "WCBillingSlab": {
       "masterName": "WCBillingSlab",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "WS_CHARGE": {
@@ -553,7 +565,7 @@
       "uniqueKeys": []
     }
   },
-   "Expense": {
+  "Expense": {
     "ExpenseType": {
       "masterName": "ExpenseType",
       "isStateLevel": true,
@@ -561,7 +573,7 @@
         "$.code"
       ]
     }
-  }, 
+  },
   "Workflow": {
     "BusinessService": {
       "masterName": "BusinessService",
