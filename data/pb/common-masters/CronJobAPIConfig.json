@@ -30,7 +30,7 @@
       "jobName": "fortnightevening",
       "active": "true",
       "method": "POST",
-      "url": "http://ws-services.mgramseva:8080/echallan-services/eChallan/v1/_schedulermonthsummary",
+      "url": "http://echallan-services.mgramseva:8080/echallan-services/eChallan/v1/_schedulermonthsummary",
       "payload": {
         "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
