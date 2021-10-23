@@ -3,18 +3,6 @@
   "moduleName": "common-masters",
   "CronJobAPIConfig": [
     {
-      "jobName": "daily",
-      "active": "false",
-      "method": "POST",
-      "url": "http://tl-services.mgramseva:8080/tl-services/v1/TL/Expiry/_batch",
-      "payload": {
-        "RequestInfo": "{DEFAULT_REQUESTINFO}"
-      },
-      "header": {
-        "Content-Type": "application/json"
-      }
-    },
-    {
       "jobName": "monthly",
       "active": "true",
       "method": "POST",
@@ -27,22 +15,10 @@
       }
     },
     {
-      "jobName": "daily",
-      "active": "false",
-      "method": "POST",
-      "url": "http://sw-calculator.mgramseva:8080/sw-calculator/sewerageCalculator/_jobscheduler",
-      "payload": {
-        "RequestInfo": "{DEFAULT_REQUESTINFO}"
-      },
-      "header": {
-        "Content-Type": "application/json"
-      }
-    },
-    {
       "jobName": "fortnightevening",
       "active": "true",
       "method": "POST",
-      "url": "http://echallan-services.mgramseva:8080/echallan-services/eChallan/v1/_schedulerpendingcollection",
+      "url": "http://ws-services.mgramseva:8080/ws-services/wc/_schedulerpendingcollection",
       "payload": {
         "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
@@ -90,7 +66,7 @@
       "jobName": "failedbulkdemand",
       "active": "true",
       "method": "POST",
-      "url": "http://echallan-services.mgramseva:8080/echallan-services/eChallan/v1/_schedulergeneratedemand",
+      "url": "http://ws-services.mgramseva:8080/ws-services/wc/_schedulergeneratedemand",
       "payload": {
         "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
@@ -102,7 +78,7 @@
       "jobName": "dailyevening",
       "active": "true",
       "method": "POST",
-      "url": "http://echallan-services.mgramseva:8080/echallan-services/eChallan/v1/_schedulerTodaysCollection",
+      "url": "http://ws-services.mgramseva:8080/ws-services/wc/_schedulerTodaysCollection",
       "payload": {
         "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
