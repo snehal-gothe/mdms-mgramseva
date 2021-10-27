@@ -76,7 +76,7 @@
     },
     {
       "jobName": "dailyevening",
-      "active": "true",
+      "active": "false",
       "method": "POST",
       "url": "http://ws-services.mgramseva:8080/ws-services/wc/_schedulerTodaysCollection",
       "payload": {
