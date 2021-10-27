@@ -1194,6 +1194,17 @@
       "serviceCode": "ws-services",
       "code": "null",
       "path": ""
+    },{
+      "id": 2028,
+      "name": " fuzzy search",
+      "url": "/ws-services/wc/fuzzy/_search",
+      "parentModule": "",
+      "displayName": "fuzzy search ",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }
