@@ -2588,12 +2588,6 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "SUPERUSER",
-      "actionid": 2028,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "GP_ADMIN",
       "actionid": 2028,
       "actioncode": "",
@@ -2619,12 +2613,6 @@
     },
     {
       "rolecode": "DASHBOARD_VIEWER",
-      "actionid": 2028,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "EMPLOYEE",
       "actionid": 2028,
       "actioncode": "",
       "tenantId": "pb"
