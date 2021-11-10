@@ -1205,6 +1205,18 @@
       "serviceCode": "ws-services",
       "code": "null",
       "path": ""
-    }
+     },
+     {
+      "id": 2029,
+      "name": "create payment",
+      "url": "/collection-services/payments/_workflow",
+      "parentModule": "",
+      "displayName": "create payment",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "collection-services",
+      "code": "null",
+      "path": ""
+    },	  
   ]
 }	  
