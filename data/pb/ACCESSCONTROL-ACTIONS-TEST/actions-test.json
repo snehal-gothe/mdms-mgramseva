@@ -1209,7 +1209,7 @@
     {
       "id": 2029,
       "name": "create payment",
-      "url": "/collection-services/payments/_workflow",
+      "url": "/collection-services/payments/EXPENSE/_workflow",
       "parentModule": "",
       "displayName": "create payment",
       "orderNumber": 2,
