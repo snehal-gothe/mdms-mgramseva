@@ -144,7 +144,7 @@
       "pdfContactDetails": "PB_KALARBASS_CONTACT_DETAILS"
     },
     {
-	      "code": "pb.batarla",
+      "code": "pb.batarla",
       "name": "Batarla",
       "description": null,
       "logoId": "",
@@ -204,8 +204,8 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "220",
-        "projectId":"Lalpur-Project",
+        "code": "7216",
+        "projectId":"7216",
         "ddrName": "Lalpur"
       },
       "address": "Lalpur, Punjab 160062",
@@ -3243,44 +3243,7 @@
       "contactNumber": "",
       "pdfHeader": "",
       "pdfContactDetails": ""
-    },
-	{
-      "code": "pb.lalpur",
-      "name": "LALPUR",
-      "description": "LALPUR",
-      "logoId": "",
-      "imageId": null,
-      "domainUrl": "",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 5.00 PM"
-      },
-      "city": {
-        "name": "LALPUR",
-        "localName": "LALPUR",
-        "districtCode": "",
-        "districtName": "Rupnagar Sri Anandur Sahib",
-        "regionName": "",
-        "ulbGrade": "",
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "7216",
-        "regionCode": "",
-        "municipalityName": "LALPUR",
-        "ddrName": "LALPUR",
-	    "projectId":"7216"
-      },
-      "address": "Water Supply Scheme Lalpur",
-      "pincode": [],
-      "contactNumber": "",
-      "pdfHeader": "",
-      "pdfContactDetails": ""
-    },
+    },	
 	{
       "code": "pb.lehrian",
       "name": "LEHRIAN",
