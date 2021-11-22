@@ -1,0 +1,1001 @@
+{
+    "tenantId": "pb",
+    "moduleName": "tenant",
+    "projectmodule": [
+        {
+            "name": "South",
+            "code": "Z02",
+            "type": "ZONE",
+            "circle": [
+                {
+                    "name": "Chandigarh",
+                    "code": "C05",
+                    "type": "CIRCLE",
+                    "division": [
+                        {
+                            "name": "Sri Anandpur Sahib",
+                            "code": "DIV23",
+                            "type": "DIVISION",
+                            "subdivision": [
+                                {
+                                    "name": "Sub Division Sri Anandpur Sahib",
+                                    "code": "DIV23SD02",
+                                    "type": "SUBDIVISION",
+                                    "section": [
+                                        {
+                                            "name": "Kiratpur Sahib",
+                                            "code": "S557",
+                                            "type": "SECTION",
+                                            "project": [
+                                                {
+                                                    "name": "BARUWAL",
+                                                    "code": "7278",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "DABOUR  LOWER",
+                                                    "code": "7317",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "MASSEWAL",
+                                                    "code": "7382",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "NARD",
+                                                    "code": "7402",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "MAJHER ",
+                                                    "code": "7378",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "DOLOWAL UPPER",
+                                                    "code": "7330",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                }
+                                            ]
+                                        },
+										{
+                                            "name": "Kiratpur Sahib",
+                                            "code": "S558",
+                                            "type": "SECTION",
+                                            "project": [
+                                                {
+                                                    "name": "ALLPUR",
+                                                    "code": "15788",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "DABOUR  UPPER",
+                                                    "code": "15701",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                }
+                                            ]
+                                        },
+										{
+                                            "name": "Kiratpur Sahib",
+                                            "code": "S559",
+                                            "type": "SECTION",
+                                            "project": [
+                                                {
+                                                    "name": "HARIJAN BASTI DABOUR",
+                                                    "code": "15706",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                }
+                                            ]
+                                        },
+										{
+                                            "name": "Ganguwal Kalota",
+                                            "code": "S559",
+                                            "type": "SECTION",
+                                            "project": [
+                                                {
+                                                    "name": "MANGEWAL",
+                                                    "code": "7380",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "MEHIAN",
+                                                    "code": "7375",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "PAILI KHURD",
+                                                    "code": "7405",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "GANGUWAL ",
+                                                    "code": "7335",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                }
+                                            ]
+                                        },
+										{
+                                            "name": "Agampur",
+                                            "code": "S560",
+                                            "type": "SECTION",
+                                            "project": [
+                                                {
+                                                    "name": "LODHIPUR",
+                                                    "code": "7374",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "GAJPUR",
+                                                    "code": "7333",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "CHANDPUR",
+                                                    "code": "7311",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "MINDWAN LOWER",
+                                                    "code": "7393",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                }
+                                            ]
+                                        },
+										{
+                                            "name": "Mindwan",
+                                            "code": "S556",
+                                            "type": "SECTION",
+                                            "project": [
+                                                {
+                                                    "name": "BALOLI ",
+                                                    "code": "7272",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                }
+                                            ]
+                                        },
+										{
+                                            "name": "Rampur Lamlehri",
+                                            "code": "S558",
+                                            "type": "SECTION",
+                                            "project": [
+                                                {
+                                                    "name": "JHINGRI UPPER",
+                                                    "code": "7353",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "TARAPUR",
+                                                    "code": "7437",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+								{
+                                    "name": "Nurpur Bedi",
+                                    "code": "DIV3221",
+                                    "type": "SUBDIVISION",
+                                    "section": [
+                                        {
+                                            "name": "Bains",
+                                            "code": " S569",
+                                            "type": "SECTION",
+                                            "project": [
+                                                {
+                                                    "name": "ABIANA KALAN",
+                                                    "code": "7140",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "ABIANA KHURD",
+                                                    "code": "7141",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "AULAKH",
+                                                    "code": "7146",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "BAHMAN MAJRA",
+                                                    "code": "7148",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "CHAJJA",
+                                                    "code": "7171",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "CHOUNTA",
+                                                    "code": "7174",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "MUNNE",
+                                                    "code": "7225",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "RAIPUR",
+                                                    "code": "4999",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "SARTHALI",
+                                                    "code": "7251",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "DHAHAN BASS",
+                                                    "code": "15488",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                }
+                                            ]
+                                        },
+										{
+                                            "name": "Jhangrian",
+                                            "code": "S567",
+                                            "type": "SECTION",
+                                            "project": [
+                                                {
+                                                    "name": "DUMEWAL",
+                                                    "code": "7178",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "RAIPUR",
+                                                    "code": "7418",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "HAYATPUR",
+                                                    "code": "7193",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "HAYATPUR HARJIN BASSTI",
+                                                    "code": "15545",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "HEERPUR BASS",
+                                                    "code": "15500",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "MANKU MAJRA",
+                                                    "code": "7220",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "MUNNE",
+                                                    "code": "7225",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "RAIPUR",
+                                                    "code": "4999",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "SARTHALI",
+                                                    "code": "7251",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "PACHRANDA",
+                                                    "code": "7232",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "BARIAN",
+                                                    "code": "7153",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "SAIDPUR",
+                                                    "code": "7249",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "BEINHARA",
+                                                    "code": "7160",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                }
+												
+                                            ]
+                                        },
+										{
+                                            "name": "Nurpur Bedi",
+                                            "code": "S570",
+                                            "type": "SECTION",
+                                            "project": [
+                                                {
+                                                    "name": "GADDIWAL",
+                                                    "code": "16988",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "BALEWAL",
+                                                    "code": "7151",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "ABADI GHRATIAN",
+                                                    "code": "15767",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "ABADI JATTAN",
+                                                    "code": "7138",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "BARARI",
+                                                    "code": "7152",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "HARIJAN BASTI BARARI",
+                                                    "code": "15742",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "JATOLI",
+                                                    "code": "7195",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "NEW ABADI JATOULI",
+                                                    "code": "15769",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "NURPUR KHURD",
+                                                    "code": "7231",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "RURE MAJRA",
+                                                    "code": "7241",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "SINGHPUR",
+                                                    "code": "7256",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "SAINI MAJRA",
+                                                    "code": "7244",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                }														
+											]
+                                        },
+										{
+                                            "name": "Nalhoti",
+                                            "code": "S568",
+                                            "type": "SECTION",
+                                            "project": [
+                                                {
+                                                    "name": "MEHANDPUR",
+                                                    "code": "7222",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "HARIPUR",
+                                                    "code": "7191",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "KAHNPUR KHUHI",
+                                                    "code": "7203",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "RORUANA",
+                                                    "code": "7240",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "KALWAN",
+                                                    "code": "7204",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                }
+											]
+                                        },
+										{
+                                            "name": "Saskaur",
+                                            "code": " S571",
+                                            "type": "SECTION",
+                                            "project": [
+                                                {
+                                                    "name": "AMARPUR BELA",
+                                                    "code": "7143",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "ASALTPUR",
+                                                    "code": "7144",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "LASARI",
+                                                    "code": "7217",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "AZAMPUR",
+                                                    "code": "7147",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "GOBINDPUR BELA",
+                                                    "code": "7182",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "JHINJRI",
+                                                    "code": "7202",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "LALPUR",
+                                                    "code": "7216",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "LEHRIAN",
+                                                    "code": "7214",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "MEERPUR",
+                                                    "code": "7223",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "BHATOLI",
+                                                    "code": "7294",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "MOTHAPUR",
+                                                    "code": "7224",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "ROULI",
+                                                    "code": "7239",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "SASKAUR",
+                                                    "code": "7252",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "SEIKHPUR",
+                                                    "code": "7253",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "KHERI",
+                                                    "code": "7209",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                }
+											]
+                                        },
+										{
+                                            "name": "Tibba Tapprian",
+                                            "code": "S572",
+                                            "type": "SECTION",
+                                            "project": [
+												{
+                                                    "name": "DAHIRPUR",
+                                                    "code": "7176",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "MADHOPUR",
+                                                    "code": "7218",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "BATARLA",
+                                                    "code": "7158",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "JHANDIAN KHURD",
+                                                    "code": "7199",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "KHAD BATHLOUR",
+                                                    "code": "7159",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "BHINDER NAGAR ",
+                                                    "code": "15544",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "GARDOLIAN ",
+                                                    "code": "15543",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "NANGAL  ",
+                                                    "code": "7228",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                }
+											]
+                                        }
+                                    ]
+                                },
+								{
+                                    "name": "Sub Division Nangal",
+                                    "code": "DIV23SD03",
+                                    "type": "SUBDIVISION",
+                                    "section": [
+                                        {
+                                            "name": "Sangatpur",
+                                            "code": "S-566",
+                                            "type": "SECTION",
+                                            "project": [
+                                                {
+                                                    "name": "Sukhsal",
+                                                    "code": "793537",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "Hazipur",
+                                                    "code": "1743495",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "Daghour",
+                                                    "code": "793532",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                }
+                                            ]
+                                        },
+										{
+                                            "name": "Dukli",
+                                            "code": "S561",
+                                            "type": "SECTION",
+                                            "project": [
+                                                {
+                                                    "name": "Babhour Sahib",
+                                                    "code": "793463",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "KHERA BAGH",
+                                                    "code": "793471",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "MAJARA",
+                                                    "code": "793465",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                }
+                                            ]
+                                        },
+										{
+                                            "name": "Bassowal",
+                                            "code": "S-565",
+                                            "type": "SECTION",
+                                            "project": [
+                                                {
+                                                    "name": "Surewal Lower",
+                                                    "code": "793554",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "Tapprian",
+                                                    "code": "1317454",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                }
+                                            ]
+                                        },
+										{
+                                            "name": "Bhallan",
+                                            "code": "S-562",
+                                            "type": "SECTION",
+                                            "project": [
+                                                {
+                                                    "name": "Sansowal",
+                                                    "code": "793575",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "Patti Dulachi Harsa Bela",
+                                                    "code": "1742992",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "Patti Dulachi Harsa Bela",
+                                                    "code": "793499",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                }
+                                            ]
+                                        },
+										{
+                                            "name": "Passiwal",
+                                            "code": "S-562",
+                                            "type": "SECTION",
+                                            "project": [
+                                                {
+                                                    "name": "Plassi Singpura",
+                                                    "code": "793570",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "Plassi Singpura",
+                                                    "code": "1785607",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                }
+                                            ]
+                                        },
+										{
+                                            "name": "Bassowal",
+                                            "code": "S-562",
+                                            "type": "SECTION",
+                                            "project": [
+                                                {
+                                                    "name": "Behlu Dhahe",
+                                                    "code": "793528",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": "Behlu Dhahe",
+                                                    "code": "793568",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                }
+                                            ]
+                                        },
+										{
+                                            "name": "Dukli",
+                                            "code": " S569",
+                                            "type": "SECTION",
+                                            "project": [
+                                                {
+                                                    "name": "SOHLA",
+                                                    "code": "79346",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+		{
+            "name": "South",
+            "code": "Z03",
+            "type": "ZONE",
+            "circle": [
+                {
+                    "name": "Chandigarh",
+                    "code": "C06",
+                    "type": "CIRCLE",
+                    "division": [
+                        {
+                            "name": "Sri Anandpur Sahib",
+                            "code": "DIV24",
+                            "type": "DIVISION",
+                            "subdivision": [
+                                {
+                                    "name": "Sub Division Sri Anandpur Sahib",
+                                    "code": "DIV23SD03",
+                                    "type": "SUBDIVISION",
+                                    "section": [
+                                        {
+                                            "name": "Ganguwal Kalota",
+                                            "code": "S560",
+                                            "type": "SECTION",
+                                            "project": [
+                                                {
+                                                    "name": "MANGEWAL BAG",
+                                                    "code": "15809",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                },
+												{
+                                                    "name": " KALOTA",
+                                                    "code": "7359",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                }
+                                            ]
+                                        },
+										{
+                                            "name": "Agampur",
+                                            "code": "S561",
+                                            "type": "SECTION",
+                                            "project": [
+                                                {
+                                                    "name": "SHAHPUR",
+                                                    "code": "15531",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                }
+                                            ]
+                                        },
+										{
+                                            "name": "Rampur Lamlehri",
+                                            "code": "S559",
+                                            "type": "SECTION",
+                                            "project": [
+                                                {
+                                                    "name": " MOHIWAL",
+                                                    "code": "7394",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                }
+                                            ]
+                                        }											
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+		{
+            "name": "South",
+            "code": "Z04",
+            "type": "ZONE",
+            "circle": [
+                {
+                    "name": "Chandigarh",
+                    "code": "C07",
+                    "type": "CIRCLE",
+                    "division": [
+                        {
+                            "name": "Sri Anandpur Sahib",
+                            "code": "DIV25",
+                            "type": "DIVISION",
+                            "subdivision": [
+                                {
+                                    "name": "Sub Division Sri Anandpur Sahib",
+                                    "code": "DIV23SD04",
+                                    "type": "SUBDIVISION",
+                                    "section": [
+                                        {
+                                            "name": "Ganguwal Kalota",
+                                            "code": "S561",
+                                            "type": "SECTION",
+                                            "project": [
+                                                {
+                                                    "name": "SADHEWAL",
+                                                    "code": "7420",
+                                                    "type": "PROJECT",
+                                                    "village": [
+                                                    ]
+                                                }
+                                            ]
+                                        }	
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
