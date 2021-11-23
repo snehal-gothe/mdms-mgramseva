@@ -25,6 +25,18 @@
       "code": "MISC",
       "active": true,
       "taxHeadCode":"20401"
+    },
+    {
+      "name": " SODIUM CHLORINATION",
+      "code": "MISC",
+      "active": true,
+      "taxHeadCode":"20302"
+    },
+    {
+      "name": "WATER TREATMENT",
+      "code": "MISC",
+      "active": true,
+      "taxHeadCode":"20303"
     }
   ]
 }
