@@ -28,13 +28,13 @@
     },
     {
       "name": " SODIUM CHLORINATION",
-      "code": "MISC",
+      "code": "SODIUMCHLORINATION",
       "active": true,
       "taxHeadCode":"20302"
     },
     {
       "name": "WATER TREATMENT",
-      "code": "MISC",
+      "code": "WATERTREATMENT",
       "active": true,
       "taxHeadCode":"20303"
     }
