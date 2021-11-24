@@ -24,6 +24,26 @@
     },
     {
       "category": "CHARGES",
+      "service": "EXPENSE.SODIUM_CHLORINATION",
+      "name": "EXPENSE.SODIUM_CHLORINATION",
+      "code": "20302",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "EXPENSE.WATER_TREATMENT",
+      "name": "EXPENSE.WATER_TREATMENT",
+      "code": "20303",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
       "service": "EXPENSE.SALARY",
       "name": "Salary",
       "code": "20201",
