@@ -6,7 +6,7 @@
       "jobName": "monthly",
       "active": "true",
       "method": "POST",
-      "url": "http://ws-calculator.mgramseva:8080/ws-calculator/waterCalculator/_jobscheduler",
+      "url": "http://ws-calculator.mgramseva:8080/ws-calculator/waterCalculator/_jobscheduler/false",
       "payload": {
         "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
@@ -66,7 +66,7 @@
       "jobName": "failedbulkdemand",
       "active": "true",
       "method": "POST",
-      "url": "http://ws-services.mgramseva:8080/ws-services/wc/_schedulergeneratedemand",
+      "url": "http://ws-calculator.mgramseva:8080/ws-calculator/waterCalculator/_jobscheduler/true",
       "payload": {
         "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
