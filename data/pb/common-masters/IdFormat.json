@@ -76,6 +76,6 @@
     {
       "format": "BILLNO-MODULE-[SEQ_EGBS_BILLNUMBER_[TENANT_ID]]",
       "idname": "bill.billnumber"
-    }     
+    } 
   ]
 }
